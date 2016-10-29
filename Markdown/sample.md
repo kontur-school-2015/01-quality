@@ -22,6 +22,12 @@ __Двумя символами__ — должен становиться жир
 
 AAA __AAA do __x
 
+LOL __lll_ ll__
+
+LOL _at aa_ aaa
+
+LOL _at __hhh__  ll_
+
 Ll_ d_
 
 Ll_ ll _ll
